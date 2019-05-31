@@ -1,5 +1,5 @@
 {
-  "name": "@grahamsutton/factory",
+  "name": "factory",
   "version": "1.0.0",
   "description": "Generate lots of fake API data quickly.",
   "main": "./dist/factory.js",
