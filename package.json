@@ -1,0 +1,26 @@
+{
+  "name": "factory",
+  "version": "1.0.0",
+  "description": "Generate lots of fake API data quickly.",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "jest"
+  },
+  "keywords": [
+    "fake",
+    "data",
+    "api",
+    "generate"
+  ],
+  "author": "Graham Sutton",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
+  }
+}
