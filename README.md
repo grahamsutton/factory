@@ -22,7 +22,7 @@ NOTE: `numRecords` must be an integer or an error will be thrown.
 ```js
 const factory = require('@grahamsutton/factory')
 
-let users = factory(3, (faker, index) => {
+let users = factory(2, (faker, index) => {
   return {
     "id": index + 1,
     "name": faker.name.firstName(),
@@ -84,7 +84,6 @@ This would return an array with the following structure:
         "state": "Idaho"
       }
     ]
-  },
-  ...
+  }
 ]
 ```
