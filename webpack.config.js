@@ -3,5 +3,8 @@ module.exports = {
   entry: './factory.js',
   output: {
   	filename: 'factory.js'
+  },
+  performance: {
+  	hints: false
   }
 }
