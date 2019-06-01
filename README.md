@@ -1,5 +1,3 @@
-## --Still In Development--
-
 # factory
 Generate lots of mock data with ease using [Marak/faker.js](https://github.com/Marak/faker.js).
 
@@ -11,10 +9,18 @@ $ npm install --save-dev @grahamsutton/factory
 
 ## Usage
 
+**Function Signature**
+
+```js
+factory(numRecords: Number, callback: Function): Array
+```
+
+NOTE: `numRecords` must be an integer or an error will be thrown.
+
 **Example**
 
 ```js
-const factory = require('factory')
+const factory = require('@grahamsutton/factory')
 
 let users = factory(3, (faker, index) => {
   return {
