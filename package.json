@@ -2,10 +2,11 @@
   "name": "@grahamsutton/factory",
   "version": "1.0.0",
   "description": "Generate lots of fake API data quickly.",
-  "main": "./dist/factory.js",
+  "main": "dist/factory.js",
   "scripts": {
     "build": "webpack",
-    "test": "jest"
+    "test": "jest",
+    "prepare": "npm run build"
   },
   "keywords": [
     "fake",
