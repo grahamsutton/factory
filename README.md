@@ -87,3 +87,7 @@ This would return an array with the following structure:
   }
 ]
 ```
+
+## Contributing
+
+See the `CONTRIBUTING.md` file for instructions on contributing. Any contributers are welcome!
