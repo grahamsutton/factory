@@ -1,6 +1,8 @@
 # factory
 Generate lots of mock data with ease using [Marak/faker.js](https://github.com/Marak/faker.js).
 
+[![CircleCI](https://circleci.com/gh/grahamsutton/factory/tree/master.svg?style=svg)](https://circleci.com/gh/grahamsutton/factory/tree/master)
+
 ## Installation
 
 ```sh
