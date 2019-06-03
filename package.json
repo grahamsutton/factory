@@ -1,6 +1,6 @@
 {
   "name": "@grahamsutton/factory",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Generate lots of fake API data quickly.",
   "main": "dist/factory.js",
   "scripts": {
