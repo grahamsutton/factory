@@ -2,6 +2,7 @@
 Generate lots of mock data with ease using [Marak/faker.js](https://github.com/Marak/faker.js).
 
 [![CircleCI](https://circleci.com/gh/grahamsutton/factory/tree/master.svg?style=svg)](https://circleci.com/gh/grahamsutton/factory/tree/master)
+[![npm version](https://badge.fury.io/js/%40grahamsutton%2Ffactory.svg)](https://badge.fury.io/js/%40grahamsutton%2Ffactory)
 
 Factory is just one simple function that you can use to create vast amounts of mock data in one quick and simple
 definition. No extra fluff like defining "models". Factory is intended to be straight-to-the-point. Need an array
